@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xdclass-common" />
+        <module name="xdclass-manager-dao" />
+        <module name="xdclass-manager-interface" />
+        <module name="xdclass-manager-pojo" />
+        <module name="xdclass-manager-service" />
+        <module name="xdclass-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xdclass-common" target="1.5" />
+      <module name="xdclass-manager" target="1.5" />
+      <module name="xdclass-manager-dao" target="1.5" />
+      <module name="xdclass-manager-interface" target="1.5" />
+      <module name="xdclass-manager-pojo" target="1.5" />
+      <module name="xdclass-manager-service" target="1.5" />
+      <module name="xdclass-manager-web" target="1.5" />
+      <module name="xdclass-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

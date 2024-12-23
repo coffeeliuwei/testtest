@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xdclass-common/xdclass-common.iml" filepath="$PROJECT_DIR$/xdclass-common/xdclass-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-manager/xdclass-manager.iml" filepath="$PROJECT_DIR$/xdclass-manager/xdclass-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-manager/xdclass-manager-dao/xdclass-manager-dao.iml" filepath="$PROJECT_DIR$/xdclass-manager/xdclass-manager-dao/xdclass-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-manager/xdclass-manager-interface/xdclass-manager-interface.iml" filepath="$PROJECT_DIR$/xdclass-manager/xdclass-manager-interface/xdclass-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-manager/xdclass-manager-pojo/xdclass-manager-pojo.iml" filepath="$PROJECT_DIR$/xdclass-manager/xdclass-manager-pojo/xdclass-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-manager/xdclass-manager-service/xdclass-manager-service.iml" filepath="$PROJECT_DIR$/xdclass-manager/xdclass-manager-service/xdclass-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-manager/xdclass-manager-web/xdclass-manager-web.iml" filepath="$PROJECT_DIR$/xdclass-manager/xdclass-manager-web/xdclass-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdclass-parent/xdclass-parent.iml" filepath="$PROJECT_DIR$/xdclass-parent/xdclass-parent.iml" />
+    </modules>
+  </component>
+</project>
